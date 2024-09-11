@@ -26,15 +26,15 @@ The models were evaluated based on the following metrics:
 All algorithms were compared for accuracy, precision, and recall. The results are presented using the following charts:
 
 1. **Accuracy Score for Training Data**
-   ![Train Accuracy Comparison](path/to/train_accuracy_chart.png)
+   ![Train Accuracy Comparison](images/acc_train.png)
 
 2. **Accuracy Score for Test Data**
-   ![Test Accuracy Comparison](path/to/test_accuracy_chart.png)
+   ![Test Accuracy Comparison](acc_test.png)
 
 3. **Precision for Test Data**
-   ![Precision Comparison](path/to/precision_chart.png)
+   ![Precision Comparison](p_test.png)
 
 4. **Recall for Test Data**
-   ![Recall Comparison](path/to/recall_chart.png)
+   ![Recall Comparison](r_test.png)
 
 
