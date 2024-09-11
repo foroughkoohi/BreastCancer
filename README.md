@@ -29,12 +29,12 @@ All algorithms were compared for accuracy, precision, and recall. The results ar
    ![Train Accuracy Comparison](images/acc_train.png)
 
 2. **Accuracy Score for Test Data**
-   ![Test Accuracy Comparison](acc_test.png)
+   ![Test Accuracy Comparison](images/acc_test.png)
 
 3. **Precision for Test Data**
-   ![Precision Comparison](p_test.png)
+   ![Precision Comparison](images/p_test.png)
 
 4. **Recall for Test Data**
-   ![Recall Comparison](r_test.png)
+   ![Recall Comparison](images/r_test.png)
 
 
